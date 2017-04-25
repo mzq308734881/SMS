@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/looks-2.1.4.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse IDE for Java EE Developers/sqljdbc4/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse IDE for Java EE Developers/sqljdbc4/poi-3.2-FINAL-20081019.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse IDE for Java EE Developers/sqljdbc4/poi-contrib-3.2-FINAL-20081019.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse IDE for Java EE Developers/sqljdbc4/poi-scratchpad-3.2-FINAL-20081019.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse IDE for Java EE Developers/POI-jar/3.2/poi-3.2-FINAL-20081019.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse IDE for Java EE Developers/POI-jar/3.2/poi-contrib-3.2-FINAL-20081019.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse IDE for Java EE Developers/POI-jar/3.2/poi-scratchpad-3.2-FINAL-20081019.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse IDE for Java EE Developers/jxl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
